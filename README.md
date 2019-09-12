@@ -1,3 +1,7 @@
+[![GitHub repo size](https://img.shields.io/github/repo-size/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica)](https://github.com/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica)
+[![GitHub top language](https://img.shields.io/github/languages/top/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica)](https://github.com/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica)
+[![GitHub stars](https://img.shields.io/github/stars/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica?style=social)](https://github.com/marlonrcfranco/Sistema-para-Gestao-de-Clinica-Medica/stargazers)
+
 # SISTEMA PARA GESTÃO DE CLÍNICA MÉDICA
 
 Implementação de um Sistema para Gestão de Clínicas Médicas (simplificado), que por sua vez integra o trabalho avaliado homônimo da disciplina de Sistemas para Internet II (Turma U) da Universidade Federal do Rio Grande - FURG, sob orientação do Prof. Dr. Ewerson Carvalho.
