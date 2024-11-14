@@ -21,6 +21,15 @@ Implementação de um Sistema para Gestão de Clínicas Médicas (simplificado),
 - PHP 7.2
 - Mozilla Firefox
 
+### Instalação (Docker)
+Em um terminal dentro do diretório do projeto, execute o seguinte comando:
+```
+./build_image.sh
+```
+Em seguida, abra o navegador e acesse http://localhost:8080
+A tela de login deverá ser apresentada.
+
+
 ### Instalação
 
 - Extraia os arquivos do .zip
